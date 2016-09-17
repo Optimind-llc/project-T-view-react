@@ -1,0 +1,9 @@
+.idea/
+.DS_Store
+/.happypack
+/node_modules
+npm-debug.log
+/build
+rethinkdb_data
+stats.json
+.env
